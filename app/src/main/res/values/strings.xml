@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sugar Tracker</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="editor_activity_title_new_pet">Add a Sugary Item</string>
+    <string name="action_save">Save</string>
+    <string name="category_item">Sugar Item</string>
+    <string name="category_type">Type of Sugar</string>
+    <string name="category_amount">Amount of Sugar</string>
+    <string name="unit_sugar">gm</string>
+    <string name="type_unknown">Unknown</string>
+    <string name="type_carb">Carb</string>
+    <string name="type_artificial">Artificial</string>
+    <string name="type_natural">Natural</string>
+</resources>
