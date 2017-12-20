@@ -15,7 +15,6 @@ public class SugarDbHelper extends SQLiteOpenHelper {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
     }
 
-    //database made for first time
     @Override
     public void onCreate(SQLiteDatabase db) {
         String SQL_CREATE_SUGARS_TABLE =  "CREATE TABLE "
